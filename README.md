@@ -96,6 +96,14 @@ This repository accompanies a full academic research paper detailing:
 - System integration
 
 
+## 📄 Research Paper
+
+The complete research paper describing the methodology, dataset analysis,
+model evaluation, and system architecture is available here:
+
+📘 [Download PDF](paper/Mental%20Health%20Prediction.pdf)
+
+
 ---
 
 ## Ethical Disclaimer
